@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "i:\\unreal projects\\shooter\\source\\shooter\\shooter.cpp",
+        "ProvidedModule": "",
+        "PCH": "i:\\unreal projects\\shooter\\intermediate\\build\\win64\\shootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "i:\\unreal projects\\shooter\\intermediate\\build\\win64\\unrealeditor\\development\\shooter\\definitions.shooter.h",
+            "i:\\unreal projects\\shooter\\source\\shooter\\shooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
